@@ -1,2 +1,0 @@
-# ProjectUTSMobile
-ProjectUTSMobile
